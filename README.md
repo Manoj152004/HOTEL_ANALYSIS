@@ -4,7 +4,7 @@
 ## 📌 Project Title
 **Hotel Booking Analysis: Revenue, Cancellation & Guest Behavior Analytics (2022-2023)**
 
----
+---https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=ef51de3c-3b7d-4e60-a91b-e607598f3278&pbi_source=mobile_android&groupObjectId=5fce47b5-fbea-4a9e-81c4-e71319fd5d85&reportObjectId=72ad68a5-e164-49c5-847d-e964ed7a9367&reportPage=4886a8cd629c0b8007b9&bookmarkGuid=95cb8104-bedb-46ec-bd5d-379f8ec4bc69&fullScreen=0
 
 ## 🛠 Tools Used & Why
 
